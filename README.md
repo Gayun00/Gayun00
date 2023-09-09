@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=300&color=1C768F&type=waving&text=Gayun00&animation=fadeIn&desc=Web&nbsp;frontend&nbsp;developer&fontAlignY=35&stroke=000000&strokeWidth=2&fontColor=F4D47B)
+![header](https://capsule-render.vercel.app/api?height=300&color=1C768F&type=waving&text=Gayun00&animation=fadeIn&desc=Web&nbsp;frontend&nbsp;developer&fontAlignY=35&fontColor=FFFFFF)
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"> 
 
